@@ -8,9 +8,9 @@ This projects demonstrates how to analyse e-commerce customer orders using pytho
 - Generate insights on product performance and revenue.
 - Summarize results for decision-making.
 ## Tools & Data Structures
-Language: Python 
-Data Structures: Lists, Tuples, Dictionaries, Sets
-Concepts: Loops, Conditionals, List Comprehensions, Sorting, Set Operations
+- Language: Python 
+- Data Structures: Lists, Tuples, Dictionaries, Sets
+- Concepts: Loops, Conditionals, List Comprehensions, Sorting, Set Operations
 ## Tasks
 - Store customer orders
 - Classify products by category
